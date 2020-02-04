@@ -1,5 +1,6 @@
-# requirements 
+#!/usr/bin/env python3 
 
+# requirements 
 import gi
 gi.require_version('Notify', '0.7')
 from gi.repository import Notify
@@ -13,6 +14,5 @@ def main():
    notification.show() 
 
 
-
-
+if __name__ == '__main__':main()
 

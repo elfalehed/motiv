@@ -1,12 +1,17 @@
 # Motiv 
-Motiv is a new script that you'll need :) 
-Motiv shall motivate you while working and be there for you . 
-Motiv will be there to check up on you .  
-## It's not an AI  
-This tool does not contain any AI parts to interact that much.
-The purpose is to send few notifications once a while for various reasons. 
+####  What's Motiv ? 
+Motiv is a caring script. A script you can automate to come and check up on you! (Loneliness sucks) 
+Motiv can be very helpfull so it can help you with : 
+
+* Come & check up on you! 
+* Reminders and notes 
+* Provide the necessary help! 
+
 
 ## How To Use It
-~ Clone this repository 
-~ Change the python file into  .EXE 
+1- clone the repository 
+         git clone https://github.com/KMx404/Motiv 
 
+note : The motiv script contain a bunch of tools that may help you at some point!  
+-- notifier.py -> this script is a notifier you can cutomize in order to call what you need 
+-- 

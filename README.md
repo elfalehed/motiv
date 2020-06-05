@@ -9,9 +9,4 @@ Motiv can be very helpfull so it can help you with :
 
 
 ## How To Use It
-1- clone the repository 
-         git clone https://github.com/KMx404/Motiv 
 
-note : The motiv script contain a bunch of tools that may help you at some point!  
--- notifier.py -> this script is a notifier you can cutomize in order to call what you need 
--- 

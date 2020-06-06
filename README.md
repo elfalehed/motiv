@@ -9,4 +9,5 @@ Motiv can be very helpfull so it can help you with :
 
 
 ## How To Use It
+(Still under development. I'll release the full documentation) 
 

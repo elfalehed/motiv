@@ -11,7 +11,7 @@ from gi.repository import Notify
 
 Notify.init("Test Notifier")
 notification = Notify.Notification.new("Hey!", "\nHow are you doing ?", "face-smile" ,)
-status = Notify.Notification.new(input("Are you good?",))
+#status = Notify.Notification.new(input("Are you good?",))
 
 
 

@@ -2,6 +2,7 @@
 
 # requirements 
 
+import selenium 
 import os 
 import datetime
 import gi

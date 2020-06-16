@@ -1,11 +1,13 @@
 #! /usr/bin/env python3 
 
+# I hate importing, I need to import someshit in case if I need 'em 
 import os, random  
 from random import randint
 from datetime import datetime 
 from numpy.random import seed
 from numpy.random import rand 
 import time 
+import notifier 
 
 def today(): 
     # Some problem managing the right time (It won't matter much) 
@@ -35,6 +37,18 @@ def today():
         os.system('python3 /home/mohamed/Desktop/mytools/Motiv/notifier.py') 
     elif cv > 18: 
         os.system('python3 /home/mohamed/Desktop/mytools/Motiv/notifier.py') 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

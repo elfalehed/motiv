@@ -18,6 +18,7 @@ def today():
     stc = str(current) 
     # current hour
     ch = str(current[0]) + str(current[1]) 
+    ch = ch - 1 
     # current minute 
     cm = str(current[3]) + str(current[4]) 
     # current seconde 
@@ -30,6 +31,7 @@ def today():
     print(rch, rcm, rcs) 
     
     """
+    """
     cv = randint(1,int(ch)) 
     #print(cv) 
     if 10 > cv:
@@ -39,20 +41,11 @@ def today():
         os.system('python3 /home/mohamed/Desktop/mytools/Motiv/notifier.py') 
 
 
+    """
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-today()
+    #print(ch)
+def main():
     
+    today()
 
+if __name__='__name__':main()

@@ -12,7 +12,7 @@ def first():
     # getting ready 
     Notify.init("Test Notifier")
     notification = Notify.Notification.new("Hey!", "\nHow are you doing ?", "face-smile" ,) 
-    
+    #sleep(100)   
 
 
     notification.show()
